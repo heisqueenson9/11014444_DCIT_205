@@ -1,6 +1,4 @@
 # DCIT_205_IA
-front  view.png
-
 Introduction:
 Welcome to the Computer Science Department Website, crafted by Enock Queenson Eduafo (Student ID: 11014444). This website serves as a central hub for all things related to the exciting field of computer science.
 
@@ -21,3 +19,7 @@ Instructions for Developers:
 What I've Learned:
 Throughout this project, I honed my skills in frontend and backend development, learned effective collaboration through version control, and gained insights into creating user-friendly interfaces. The journey has been a valuable exploration into the world of practical web development.
 Additionally, I've improved my problem-solving abilities by tackling various challenges during the development process. This experience has deepened my understanding of coding best practices and the importance of optimizing for performance. Overall, the project has been instrumental in shaping me into a more versatile and adept developer.
+
+(screenshot of the pages)
+front  view.png
+about page.png
