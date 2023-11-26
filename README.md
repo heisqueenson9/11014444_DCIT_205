@@ -66,3 +66,4 @@ event page 1.png
 event page.png
 alumni page.png
 admission page.png
+front view2.png
