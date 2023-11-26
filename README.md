@@ -25,3 +25,4 @@ front  view.png
 about page.png
 catalog page.png
 faculty page.png
+student page.png
