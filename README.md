@@ -23,3 +23,4 @@ Additionally, I've improved my problem-solving abilities by tackling various cha
 (screenshot of the pages)
 front  view.png
 about page.png
+catalog page.png
