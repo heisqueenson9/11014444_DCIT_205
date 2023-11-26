@@ -70,3 +70,4 @@ alumni page.png
 admission page.png
 front view2.png
 catalog page 1.png
+contact page.png
