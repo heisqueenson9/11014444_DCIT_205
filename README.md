@@ -55,6 +55,8 @@ Throughout the development of this project, I have acquired valuable skills and 
 This project has been instrumental in shaping me into a more versatile and adept developer.
 Throughout this project, I honed my skills in frontend and backend development, learned effective collaboration through version control, and gained insights into creating user-friendly interfaces. The journey has been a valuable exploration into the world of practical web development.
 Additionally, I've improved my problem-solving abilities by tackling various challenges during the development process. This experience has deepened my understanding of coding best practices and the importance of optimizing for performance. Overall, the project has been instrumental in shaping me into a more versatile and adept developer.
+
+
 (screenshot of the pages)
 front  view.png
 about page.png
@@ -67,3 +69,4 @@ event page.png
 alumni page.png
 admission page.png
 front view2.png
+catalog page 1.png
