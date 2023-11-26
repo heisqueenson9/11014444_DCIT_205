@@ -27,3 +27,4 @@ catalog page.png
 faculty page.png
 student page.png
 student project.png
+event page 1.png
