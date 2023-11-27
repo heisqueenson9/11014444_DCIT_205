@@ -43,8 +43,9 @@ Instructions for Developers:
 2. Install project dependencies with the relevant package manager.
 3. Configure environment variables as specified in the documentation.
 4. Run the application locally using npm start (or the applicable command for your stack).
-5. (screenshot of the pages)
-![Uploading about page.png…]()
+5.
+6.     (screenshot of the pages)
+7. <width="960" alt="about page" src="https://github.com/Daquiver1/DCIT_205_IA/assets/150591005/c67d5d78-1792-43a8-842a-f80416edcda7">
 
 
  Learning Experience:
