@@ -45,7 +45,8 @@ Instructions for Developers:
 4. Run the application locally using npm start (or the applicable command for your stack).
 5.
 6.     (screenshot of the pages)
-![About page](about-page.png"about page image")
+![about page](https://github.com/Daquiver1/DCIT_205_IA/assets/150591005/46f5335f-4a14-43db-8efa-5ee71960dea4)
+
 
 Throughout the development of this project, I have acquired valuable skills and insights, including:
 - Proficiency in both frontend and backend development.
