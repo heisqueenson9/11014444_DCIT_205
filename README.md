@@ -45,7 +45,7 @@ Instructions for Developers:
 4. Run the application locally using npm start (or the applicable command for your stack).
 5.
 6.     (screenshot of the pages)
- ![about Image](Abdullai Aziz Dwumfour.jpg?raw=true "Title")
+ ![about Image](about page.png?raw=true "Title")
  Learning Experience:
 
 Throughout the development of this project, I have acquired valuable skills and insights, including:
