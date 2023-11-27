@@ -45,9 +45,7 @@ Instructions for Developers:
 4. Run the application locally using npm start (or the applicable command for your stack).
 5.
 6.     (screenshot of the pages)
- ![about Image](about page.png?raw=true "Title")
- Learning Experience:
-
+![Example Image](images/example.png "Example Title")
 Throughout the development of this project, I have acquired valuable skills and insights, including:
 - Proficiency in both frontend and backend development.
 - Effective collaboration using version control systems.
