@@ -1,5 +1,5 @@
 # DCIT_205_IA
-Computer Science Department Website
+               Computer Science Department Website
 
 Author Information:
 
@@ -46,7 +46,17 @@ Instructions for Developers:
 5.
 6.     (screenshot of the pages)
 ![about page](https://github.com/Daquiver1/DCIT_205_IA/assets/150591005/46f5335f-4a14-43db-8efa-5ee71960dea4)
-
+![news page](https://github.com/Daquiver1/DCIT_205_IA/assets/150591005/d3e247a2-1593-4151-9a97-06821435ae15)
+![front  view](https://github.com/Daquiver1/DCIT_205_IA/assets/150591005/92f63287-008f-48c6-b240-f1b019957379)
+![event page](https://github.com/Daquiver1/DCIT_205_IA/assets/150591005/d8aa529d-fca9-4c7c-a852-3b7ef9957872)
+![event page 1](https://github.com/Daquiver1/DCIT_205_IA/assets/150591005/d7568fed-cafd-4388-9e69-24b01eb7586a)
+![contact page](https://github.com/Daquiver1/DCIT_205_IA/assets/150591005/a34490bc-d07c-4896-97ef-f0b7477bf798)
+![catalog page](https://github.com/Daquiver1/DCIT_205_IA/assets/150591005/2603a3e8-b452-42a4-9125-bd855400bad9)
+![catalog page 1](https://github.com/Daquiver1/DCIT_205_IA/assets/150591005/f3d8a6f5-8c0a-43f5-84e2-c10ca0cafb84)
+![alumni page](https://github.com/Daquiver1/DCIT_205_IA/assets/150591005/3e2b59dd-be28-4a9e-a5f5-971474c765a3)
+![admission page (1)](https://github.com/Daquiver1/DCIT_205_IA/assets/150591005/0c30d607-9a5e-4b01-9bf1-06bc16fc4161)
+![admission page](https://github.com/Daquiver1/DCIT_205_IA/assets/150591005/cd889efa-d090-478b-b3c0-7b57222dfb7a)
+![about page](https://github.com/Daquiver1/DCIT_205_IA/assets/150591005/f645cadb-457c-476d-a790-7410bb4f25b7)
 
 Throughout the development of this project, I have acquired valuable skills and insights, including:
 - Proficiency in both frontend and backend development.
