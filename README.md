@@ -45,7 +45,7 @@ Instructions for Developers:
 4. Run the application locally using npm start (or the applicable command for your stack).
 5.
 6.     (screenshot of the pages)
-![About page](aboutpage.png"about page image")
+![About page](about-page.png"about page image")
 
 Throughout the development of this project, I have acquired valuable skills and insights, including:
 - Proficiency in both frontend and backend development.
