@@ -45,7 +45,13 @@ Instructions for Developers:
 4. Run the application locally using npm start (or the applicable command for your stack).
 5.
 6.     (screenshot of the pages)
-![about page](https://github.com/Daquiver1/DCIT_205_IA/assets/150591005/46f5335f-4a14-43db-8efa-5ee71960dea4)
+![Screenshot 2023-11-27 062958](https://github.com/Daquiver1/DCIT_205_IA/assets/150591005/3fee924e-554d-4f45-a4ea-af4914da26df)
+![student project](https://github.com/Daquiver1/DCIT_205_IA/assets/150591005/e4d5d612-dada-4730-bc45-4945f0e80e2a)
+![student page](https://github.com/Daquiver1/DCIT_205_IA/assets/150591005/7c13f0b1-83d2-4678-9ecc-9402eaba59d3)
+![admission page (1)](https://github.com/Daquiver1/DCIT_205_IA/assets/150591005/0c30d607-9a5e-4b01-9bf1-06bc16fc4161)
+![admission page](https://github.com/Daquiver1/DCIT_205_IA/assets/150591005/cd889efa-d090-478b-b3c0-7b57222dfb7a)
+![faculty page](https://github.com/Daquiver1/DCIT_205_IA/assets/150591005/d19436ad-d052-42e1-8625-e5449b8db603)
+![resources](https://github.com/Daquiver1/DCIT_205_IA/assets/150591005/19ebbdf5-6179-4172-877a-fe36912dbb1d)
 ![news page](https://github.com/Daquiver1/DCIT_205_IA/assets/150591005/d3e247a2-1593-4151-9a97-06821435ae15)
 ![front  view](https://github.com/Daquiver1/DCIT_205_IA/assets/150591005/92f63287-008f-48c6-b240-f1b019957379)
 ![event page](https://github.com/Daquiver1/DCIT_205_IA/assets/150591005/d8aa529d-fca9-4c7c-a852-3b7ef9957872)
@@ -54,8 +60,6 @@ Instructions for Developers:
 ![catalog page](https://github.com/Daquiver1/DCIT_205_IA/assets/150591005/2603a3e8-b452-42a4-9125-bd855400bad9)
 ![catalog page 1](https://github.com/Daquiver1/DCIT_205_IA/assets/150591005/f3d8a6f5-8c0a-43f5-84e2-c10ca0cafb84)
 ![alumni page](https://github.com/Daquiver1/DCIT_205_IA/assets/150591005/3e2b59dd-be28-4a9e-a5f5-971474c765a3)
-![admission page (1)](https://github.com/Daquiver1/DCIT_205_IA/assets/150591005/0c30d607-9a5e-4b01-9bf1-06bc16fc4161)
-![admission page](https://github.com/Daquiver1/DCIT_205_IA/assets/150591005/cd889efa-d090-478b-b3c0-7b57222dfb7a)
 ![about page](https://github.com/Daquiver1/DCIT_205_IA/assets/150591005/f645cadb-457c-476d-a790-7410bb4f25b7)
 
 Throughout the development of this project, I have acquired valuable skills and insights, including:
