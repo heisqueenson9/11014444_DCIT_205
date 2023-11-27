@@ -58,18 +58,4 @@ Additionally, I've improved my problem-solving abilities by tackling various cha
 
 
 (screenshot of the pages)
-front  view.png
-about page.png
-catalog page.png
-faculty page.png
-student page.png
-student project.png
-event page 1.png
-event page.png
-alumni page.png
-admission page.png
-front view2.png
-catalog page 1.png
-contact page.png
-resource1.png
-resources.png
+![Uploading about page.png…]()
